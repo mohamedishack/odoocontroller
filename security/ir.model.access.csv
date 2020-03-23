@@ -1,0 +1,8 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_nursery_customer,access.nursery.customer,model_nursery_customer,,1,1,1,1
+access_nursery_order,access.nursery.order,model_nursery_order,,1,1,1,1
+access_nursery_plant,access.nursery.plant,model_nursery_plant,,1,1,1,1
+
+
+
+
